@@ -37,7 +37,7 @@
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Espectro223&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 <!--- trophy (start) -->
@@ -134,10 +134,6 @@
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
-----
- 
 </details>
 	
 <details><summary><h3> :open_file_folder: Mis Repositorios </h3></summary>
@@ -152,17 +148,3 @@
 </details>
 
 </br></br>
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologias que conozco👨🏻‍💻</h2></summary>
-  </ul>
-  </div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,css,discord,docker,postgres,github,html,java,js,linux,mysql,py,vscode,&perline=14" />
-  </a>
-</p>
-

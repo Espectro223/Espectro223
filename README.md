@@ -188,6 +188,18 @@
       <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2003/Ejercicio2">Ejercicio 2</a>
       <br>
     </li>
+    <li>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2003/Ejercicio3">Ejercicio 3</a>
+      <br>
+    </li>
+    <li>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2003/Ejercicio4">Ejercicio 4</a>
+      <br>
+    </li>
+    <li>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2003/Ejercicio5">Ejercicio 5</a>
+      <br>
+    </li>
   </ul>
 </div>
 </details>

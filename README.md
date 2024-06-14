@@ -270,6 +270,119 @@
       <br>
     </li>
   </ul>
+  <h4 style="color: #3498db; font-weight: bold;">Clase 8</h4>
+  <ul>
+    <li>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2008/Ejercicio14 (continuacion)">Ejercicio 14 (continuacion)</a>
+      <br>
+    </li>
+    <li>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2008/Ejercicio18">Ejercicio 18 </a>
+      <br>
+    </li>
+  </ul>
+  <h4 style="color: #3498db; font-weight: bold;">Clase 9</h4>
+  <ul>
+    <li>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2009/Ejercicio_A">Ejercicio A</a>
+      <br>
+    </li>
+    <li>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2009/Ejercicio_B">Ejercicio B</a>
+      <br>
+    </li>
+    <li>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2009/Ejercicio_C">Ejercicio C</a>
+      <br>
+    </li>
+  </ul>
+  <h4 style="color: #3498db; font-weight: bold;">Clase 11</h4>
+  <ul>
+    <li>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2011/Ejercicio19">Ejercicio 19</a>
+      <br>
+    </li>
+  </ul>
+  <h4 style="color: #3498db; font-weight: bold;">Clase 12</h4>
+  <ul>
+    <li>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2012/Ejercicio14 (continuacion)">Ejercicio 14 (continuacion)</a>
+      <br>
+    </li>
+  </ul>
+  <h4 style="color: #3498db; font-weight: bold;">Clase 13</h4>
+  <ul>
+    <li>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2013/Ejercicio14 (Continuación)">Ejercicio 14 (Continuacion)</a>
+      <br>
+    </li>
+    <li>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2013/LoginConSignal">Login con SIGNAL</a>
+      <br>
+    </li>
+  </ul>
+  <h4 style="color: #3498db; font-weight: bold;">Clase 14</h4>
+  <ul>
+    <li>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2014/Ejercicio20">Ejercicio 20 </a>
+      <br>
+    </li>
+    <li>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2014/Ejercicio21">Ejercicio 21</a>
+      <br>
+    </li>
+  </ul>
+  <h4 style="color: #3498db; font-weight: bold;">Clase 15</h4>
+  <ul>
+    <li>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2015/Ejercicio22">Ejercicio 22 </a>
+      <br>
+    </li>
+    <li>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2015/Ejercicio23">Ejercicio 23</a>
+      <br>
+    </li>
+  </ul>
+  <h4 style="color: #3498db; font-weight: bold;">Clase 16</h4>
+  <ul>
+    <li>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2016/Ejercicio24">Ejercicio 24 </a>
+      <br>
+    </li>
+  </ul>
+  <h4 style="color: #3498db; font-weight: bold;">Clase 17</h4>
+  <ul>
+    <li>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2017/Ejercicio25">Ejercicio 25 </a>
+      <br>
+    </li>
+  </ul>
+  <h4 style="color: #3498db; font-weight: bold;">Clase 18</h4>
+  <ul>
+    <li>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2018"> </a>
+      <br>
+    </li>
+  </ul>
+  <h4 style="color: #3498db; font-weight: bold;">Clase 19</h4>
+  <ul>
+    <li>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2019/Ejercicio-Parcial-A">Ejercicio A </a>
+      <br>
+    </li>
+    <li>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2019/Ejercicio-Parcial-B">Ejercicio B </a>
+      <br>
+    </li>
+    <li>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2019/Ejercicio-Parcial-C">Ejercicio C </a>
+      <br>
+    </li>
+    <li>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2019/Ejercicio-Parcial-D">Ejercicio D </a>
+      <br>
+    </li>
+  </ul>
 </div>
 </details>
 

@@ -124,4 +124,19 @@
 </div>
 </details>
 
+
+<details><summary><h3> program: Mis Programas </h3></summary>
+<div>
+  <p align="center">
+	<a href="https://github.com/Espectro223/Actividades-de-POO---2024">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Espectro223&repo=Actividades-de-POO---2024&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/Espectro223/Actividades-de-POO---2024">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Espectro223&repo=Actividades-de-POO---2024&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+  </p>
+</div>
+</details>
+
+
 </br></br>

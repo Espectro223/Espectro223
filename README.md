@@ -143,7 +143,7 @@
   <h4>Clase 3</h4>
   <ul>
     <li><a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2003/Ejercicio1"></li>
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Espectro223&repo=Actividades-de-POO---2024/tree/main/Clase%20-%2003/Ejercicio1&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Espectro223&repo=Actividades-de-POO---2024/tree/main/Clase%20-%2003&theme=tokyonight" alt="GitHub Stats" />
     <li><a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2003/Ejercicio2">Ejercicio 2</a></li>
     <!-- Agrega más ejercicios según sea necesario -->
   </ul>

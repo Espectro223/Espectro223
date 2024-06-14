@@ -53,7 +53,7 @@
 ## 🛠️ Mis Habilidades 💻
 </p>
 
-<picture> <img src = "https://github.com/Espectro223/Imagenes/blob/main/Programming_Languages.gif?raw=true" width = 50px> </picture> Lenguajes de Programación
+### <picture> <img src = "https://github.com/Espectro223/Imagenes/blob/main/Programming_Languages.gif?raw=true" width = 50px> </picture> Lenguajes de Programación
 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
 <p align="center"> 
@@ -68,7 +68,7 @@
 
 </p>
 
-### <picture> <img src = "https://github.com/Espectro223/Imagenes/blob/main/CP_PS.gif" width = 50px>  </picture> Frontend Development
+### <picture> <img src = "https://github.com/Espectro223/Imagenes/blob/main/CP_PS.gif?raw=true" width = 50px>  </picture> Frontend Development
 <p align="center"> 
   &emsp;
 	

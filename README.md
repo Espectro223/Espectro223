@@ -181,19 +181,15 @@
   <h4 style="color: #3498db; font-weight: bold;">Clase 3</h4>
   <ul>
     <li>
-      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2003/Ejercicio1">Ejercicio 1</a>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2003/Ejercicio1	">Ejercicio 1</a>
+      <br>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2003/Ejercicio2	">Ejercicio 2</a>
       <br>
     </li>
     <li>
-      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2003/Ejercicio2">Ejercicio 2</a>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2003/Ejercicio3	">Ejercicio 3</a>
       <br>
-    </li>
-    <li>
-      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2003/Ejercicio3">Ejercicio 3</a>
-      <br>
-    </li>
-    <li>
-      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2003/Ejercicio4">Ejercicio 4</a>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2003/Ejercicio4	">Ejercicio 4</a>
       <br>
     </li>
     <li>

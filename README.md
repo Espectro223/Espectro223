@@ -140,10 +140,10 @@
 
 <details><summary><h3> :classical_building: Clases y Ejercicios </h3></summary>
 <div>
-  <h4>Clase 1</h4>
+  <h4>Clase 3</h4>
   <ul>
-    <li><a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase1/ejercicio1">Ejercicio 1</a></li>
-    <li><a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase1/ejercicio2">Ejercicio 2</a></li>
+    <li><a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase - 3/Ejercicio1">Ejercicio 1</a></li>
+    <li><a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase - 3/Ejercicio2">Ejercicio 2</a></li>
     <!-- Agrega más ejercicios según sea necesario -->
   </ul>
   <h4>Clase 2</h4>

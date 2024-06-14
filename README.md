@@ -262,7 +262,7 @@
       <br>
     </li>
     <li>
-      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2007/Ejercicio14 (continuacion)">Ejercicio 14 (continuacion)</a>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2007/Ejercico14%20(continuacion)">Ejercicio 14 (continuacion)</a>
       <br>
     </li>
     <li>
@@ -273,7 +273,7 @@
   <h4 style="color: #3498db; font-weight: bold;">Clase 8</h4>
   <ul>
     <li>
-      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2008/Ejercicio14 (continuacion)">Ejercicio 14 (continuacion)</a>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2008/Ejercicio14%20(continuacion">Ejercicio 14 (continuacion)</a>
       <br>
     </li>
     <li>

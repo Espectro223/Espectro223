@@ -189,8 +189,8 @@
   </ul>
   <h4>Clase 2</h4>
   <ul>
-    <li><a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase2/ejercicio1">Ejercicio 1</a></li>
-    <li><a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase2/ejercicio2">Ejercicio 2</a></li>
+    <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase2/ejercicio1">Ejercicio 1</a>
+    <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase2/ejercicio2">Ejercicio 2</a>
     <!-- Agrega más ejercicios según sea necesario -->
   </ul>
   <!-- Agrega más clases según sea necesario -->

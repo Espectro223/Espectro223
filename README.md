@@ -124,21 +124,7 @@
 </div>
 </details>
 
-
-<details><summary><h3> computer: Mis Programas </h3></summary>
-<div>
-  <p align="center">
-	<a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2003">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Espectro223&repo=Actividades-de-POO---2024&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/Espectro223/Actividades-de-POO---2024">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Espectro223&repo=Actividades-de-POO---2024&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-  </p>
-</div>
-</details>
-
-<details><summary><h3> :classical_building: Clases y Ejercicios </h3></summary>
+<details><summary><h3> :classical_building: Clases Enumeradas </h3></summary>
 <div>
   <p align="center">
 	<a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2003">

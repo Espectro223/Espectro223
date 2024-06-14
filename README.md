@@ -127,7 +127,7 @@
     <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-%23000000.svg?style=plastic&logo=PyCharm&logoColor=green&logoColor=black&logoColor=pink" /></a>
 </p>
 
-###<picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
 
 <p align="center">
   &emsp;
@@ -139,7 +139,7 @@
 </p>
 <br>
 
-##<picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 </details>	
 <details><summary><h3> :open_file_folder: Mis Repositorios </h3></summary>
 <div>

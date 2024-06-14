@@ -53,8 +53,8 @@
 </p>        
 <!--- stats (end) -->
 
-##🛠️ Mis Habilidades
-###<picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
+## 🛠️ Mis Habilidades
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px> </picture> Programming languages
 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 <p align="center"> 
   &emsp; 
@@ -78,6 +78,7 @@
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
 </p>
+
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
 <p align="center"> 
   &emsp; 
@@ -97,6 +98,7 @@
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
 </p>
+
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
 <p align="center">
   &emsp;
@@ -119,6 +121,7 @@
   &emsp;
     <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-%23000000.svg?style=plastic&logo=PyCharm&logoColor=green&logoColor=black&logoColor=pink" /></a>
 </p>
+
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
 <p align="center">
   &emsp;
@@ -129,6 +132,7 @@
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
 </p>
 <br>
+
 ##<picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 </details>	
 <details><summary><h3> :open_file_folder: Mis Repositorios </h3></summary>

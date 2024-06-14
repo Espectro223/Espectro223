@@ -142,7 +142,7 @@
 <div>
   <p align="center">
 	<a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2003/Ejercicio1">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Espectro223&repo=Clase-03&theme=tokyonight"alt="GitHub%20Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Espectro223&repo=Clase-3&theme=tokyonight"alt="GitHub%20Stats" />
     	</a>
 	<a href="https://github.com/Espectro223/Actividades-de-POO---2024">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Espectro223&repo=Actividades-de-POO---2024&theme=tokyonight" alt="GitHub Stats" />

@@ -55,7 +55,6 @@
 
 <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px> </picture> Lenguajes de Programación
 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
-
 <p align="center"> 
   &emsp; 
 	
@@ -68,8 +67,7 @@
 
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
-
+### <picture> <img src = "https://github.com/Espectro223/Imagenes/blob/main/code_dribbble.gif" width = 50px>  </picture> Frontend Development
 <p align="center"> 
   &emsp;
 	
@@ -79,8 +77,7 @@
 
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
-
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Herramientas
 <p align="center">
   &emsp;
 	
@@ -93,7 +90,6 @@
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
-
 <p align="center">
   &emsp;
 
@@ -102,12 +98,10 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=PyCharm&logoColor=#00C7B7)
 ![VirtualBox](https://img.shields.io/badge/Virtual%20Box-0078D6?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white)
-![JetBrains](https://img.shields.io/badge/jetbrains%20IDE-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
 
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
-
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Sistemas Operativos
 <p align="center">
   &emsp;
 

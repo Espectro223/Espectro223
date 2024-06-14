@@ -147,6 +147,15 @@
 	<a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2004">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Espectro223&repo=Clase-4&theme=tokyonight" alt="GitHub Stats" />
     	</a>
+	<a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2005">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Espectro223&repo=Clase-3&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2006">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Espectro223&repo=Clase-4&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2007">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Espectro223&repo=Clase-4&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
   </p>
 </div>
 </details>

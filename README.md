@@ -125,7 +125,7 @@
 </details>
 
 
-<details><summary><h3> program: Mis Programas </h3></summary>
+<details><summary><h3> computer: Mis Programas </h3></summary>
 <div>
   <p align="center">
 	<a href="https://github.com/Espectro223/Actividades-de-POO---2024">
@@ -135,6 +135,24 @@
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Espectro223&repo=Actividades-de-POO---2024&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </p>
+</div>
+</details>
+
+<details><summary><h3> :classical_building: Clases y Ejercicios </h3></summary>
+<div>
+  <h4>Clase 1</h4>
+  <ul>
+    <li><a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase1/ejercicio1">Ejercicio 1</a></li>
+    <li><a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase1/ejercicio2">Ejercicio 2</a></li>
+    <!-- Agrega más ejercicios según sea necesario -->
+  </ul>
+  <h4>Clase 2</h4>
+  <ul>
+    <li><a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase2/ejercicio1">Ejercicio 1</a></li>
+    <li><a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase2/ejercicio2">Ejercicio 2</a></li>
+    <!-- Agrega más ejercicios según sea necesario -->
+  </ul>
+  <!-- Agrega más clases según sea necesario -->
 </div>
 </details>
 

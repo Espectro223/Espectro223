@@ -180,18 +180,93 @@
 <div>
   <h4 style="color: #3498db; font-weight: bold;">Clase 3</h4>
   <ul>
-      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2003/Ejercicio1	">Ejercicio 1</a>
-      <br>
-      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2003/Ejercicio2	">Ejercicio 2</a>
-      <br>
     <li>
-      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2003/Ejercicio3	">Ejercicio 3</a>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2003/Ejercicio1">Ejercicio 1</a>
       <br>
-      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2003/Ejercicio4	">Ejercicio 4</a>
+    </li>
+    <li>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2003/Ejercicio2">Ejercicio 2</a>
+      <br>
+    </li>
+    <li>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2003/Ejercicio3">Ejercicio 3</a>
+      <br>
+    </li>
+    <li>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2003/Ejercicio4">Ejercicio 4</a>
       <br>
     </li>
     <li>
       <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2003/Ejercicio5">Ejercicio 5</a>
+      <br>
+    </li>
+    <li>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2003/Ejercicio6">Ejercicio 6</a>
+      <br>
+    </li>
+    <li>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2003/Ejercicio7">Ejercicio 7</a>
+      <br>
+    </li>
+  </ul>
+  <h4 style="color: #3498db; font-weight: bold;">Clase 4</h4>
+  <ul>
+    <li>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2004/Ejercicio8">Ejercicio 8</a>
+      <br>
+    </li>
+    <li>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2004/Ejercicio9">Ejercicio 9</a>
+      <br>
+    </li>
+    <li>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2004/Ejercicio10">Ejercicio 10</a>
+      <br>
+    </li>
+    <li>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2004/Ejercicio11">Ejercicio 11</a>
+      <br>
+    </li>
+    <li>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2004/Ejercicio12">Ejercicio 12</a>
+      <br>
+    </li>
+  </ul>
+  <h4 style="color: #3498db; font-weight: bold;">Clase 5</h4>
+  <ul>
+    <li>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2005/Ejercicio13">Ejercicio 13</a>
+      <br>
+    </li>
+    <li>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2005/Ejercicio14">Ejercicio 14</a>
+      <br>
+    </li>
+    <li>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2005/Ejercicio15">Ejercicio 15</a>
+      <br>
+    </li>
+    <li>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2005/Ejercicio16">Ejercicio 16</a>
+      <br>
+    </li>
+    <li>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2005/Login">Login</a>
+      <br>
+    </li>
+  </ul>
+  <h4 style="color: #3498db; font-weight: bold;">Clase 7</h4>
+  <ul>
+    <li>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2007/Ejercicio16 (continuacion)">Ejercicio 16 (continuacion)</a>
+      <br>
+    </li>
+    <li>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2007/Ejercicio14 (continuacion)">Ejercicio 14 (continuacion)</a>
+      <br>
+    </li>
+    <li>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2007/Ejercicio17">Ejercicio 17</a>
       <br>
     </li>
   </ul>

@@ -176,24 +176,19 @@
 </div>
 </details>
 
-<details><summary><h3> :classical_building: Ejercicios por Clase </h3></summary>
+  <details><summary><h3> :💻: Clases y Ejercicios </h3></summary>
 <div>
-  <h4>Clase 3</h4>
+  <h4 style="color: #3498db; font-weight: bold;">Clase 3</h4>
   <ul>
-    <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2003/Ejercicio1">
-	    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Espectro223&repo=Clase-03&theme=tokyonight" alt="GitHub Stats" />
-    <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2003/Ejercicio2">
-	    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Espectro223&repo=Clase-11&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-    <!-- Agrega más ejercicios según sea necesario -->
+    <li>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2003/Ejercicio1">Ejercicio 1</a>
+      <br>
+    </li>
+    <li>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2003/Ejercicio2">Ejercicio 2</a>
+      <br>
+    </li>
   </ul>
-  <h4>Clase 2</h4>
-  <ul>
-    <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase2/ejercicio1">Ejercicio 1</a>
-    <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase2/ejercicio2">Ejercicio 2</a>
-    <!-- Agrega más ejercicios según sea necesario -->
-  </ul>
-  <!-- Agrega más clases según sea necesario -->
 </div>
 </details>
 

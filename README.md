@@ -154,7 +154,7 @@
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Espectro223&repo=Clase-7&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2008">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Espectro223&repo=Clase-4&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Espectro223&repo=Clase-8&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </p>
 </div>

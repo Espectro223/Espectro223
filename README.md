@@ -11,11 +11,28 @@
 
 ---
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-	
+
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Algo sobre mí**
+
+<br>
+<pre>
+💻 Ingeniero Informático en Desarrollo | Apasionado por la Innovación Tecnológica 
+📚 Estudiante de la Universidad Blas Pascal
+📝 Aprendizaje continuo en el tiempo libre.
+🌟 Lenguajes Principales: C++ y Python
+🚩 Interesado en el desarrollo de Aprendizaje Automático
+</pre>
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 <!--- snake -->
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--- stats & Trophy (start) -->
 <p align="center">

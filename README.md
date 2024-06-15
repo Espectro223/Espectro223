@@ -202,7 +202,7 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  <details><summary><h3> :💻: Clases y Ejercicios </h3></summary>
+  <details><summary><h3> :💻: Ejercicios por clase </h3></summary>
 <div>
   <h4 style="color: #3498db; font-weight: bold;">Clase 3</h4>
   <ul>

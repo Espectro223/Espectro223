@@ -16,11 +16,10 @@
 
 <br>
 <pre>
-💻 Ingeniero Informático en Desarrollo | Apasionado por la Innovación Tecnológica 
+💻 Ingeniero Informático en Desarrollo
 📚 Estudiante de la Universidad Blas Pascal
-📝 Aprendizaje continuo en el tiempo libre.
-🌟 Lenguajes Principales: C++ y Python
-🚩 Interesado en el desarrollo de Aprendizaje Automático
+🌟 Lenguajes Principales: C++
+🚩 Interesado en el desarrollo de Inteligencia Artificial y los Videojuegos 
 </pre>
 <br>
 

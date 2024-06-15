@@ -431,11 +431,20 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
 <!--- imagen -->
 </samp>
   <h3 align="center">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
   </h3>
+
+<br>
+<pre>
+🃏🃏 Esto es todo por el momento 🃏🃏
+<p align="center">
+&emsp;
+</pre>
+<br>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

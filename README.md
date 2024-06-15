@@ -151,7 +151,7 @@
 <div>
   <p align="center">
 	<a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2003">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Espectro223&repo=Clase-3&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2004">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Espectro223&repo=Clase-4&theme=tokyonight" alt="GitHub Stats" />
@@ -386,7 +386,7 @@
   <h4 style="color: #3498db; font-weight: bold;">Clase 18</h4>
   <ul>
     <li>
-      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2018"> </a>
+      <a href="https://github.com/Espectro223/Actividades-de-POO---2024/tree/main/Clase%20-%2018/Ejercicio16%20(Continuación)">Ejercicio 16 (continuación) </a>
       <br>
     </li>
   </ul>

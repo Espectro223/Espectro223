@@ -19,7 +19,7 @@
 💻 Ingeniero Informático en Desarrollo
 📚 Estudiante de la Universidad Blas Pascal
 🌟 Lenguajes Principales: C++
-🚩 Interesado en el desarrollo de Inteligencia Artificial y los Videojuegos 
+🚩 Interesado en el desarrollo de Inteligencia Artificial, la Ciberseguridad y los Videojuegos 
 </pre>
 <br>
 
